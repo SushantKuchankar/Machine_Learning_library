@@ -1,2 +1,2 @@
-# Machine_Learning_library
-Collection of machine learning algorithms implement in python
+# Machine Learning library
+Collection of kernel based machine learning algorithms implement in python
